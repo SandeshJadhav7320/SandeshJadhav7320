@@ -42,13 +42,3 @@ I'm a Computer Science student with a passion for web development, problem solvi
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/YOUR-INSTAGRAM)
 
 ---
-
-## ✨ About Me
-
-> 🚀 *"Code. Learn. Build. Repeat."*  
-> 🌟 I believe in solving real-world problems with technology and teamwork.  
-> 🧩 Always curious to explore and contribute!
-
----
-
-⭐️ *Thanks for stopping by! Have a great day!*
