@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sandesh Shahaji Jadhav!
+# 👋 Hi there, I'm Sandesh Jadhav!
 
 ### 💻 CSE Student | Web Developer | Lifelong Learner
 
