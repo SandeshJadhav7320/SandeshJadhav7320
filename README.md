@@ -1,33 +1,21 @@
-<p align="center">
-  <img src="https://your-banner-link-here.com/banner.png" alt="Banner" />
-</p>
-
 # 👋 Hi there, I'm Sandesh Shahaji Jadhav!
 
 ### 💻 CSE Student | Web Developer | Lifelong Learner
 
-I’m a Computer Science student passionate about web development, building projects, and constantly exploring new technologies.
+I'm a Computer Science student with a passion for web development, problem solving, and building meaningful projects. I love learning new technologies and turning ideas into reality.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SandeshJadhav7320&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SandeshJadhav7320&show_icons=true&theme=radical" alt="Sandesh's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeshJadhav7320&layout=compact&theme=radical" alt="Top languages" height="180"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandeshJadhav7320&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeshJadhav7320&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-## 🚀 Tech Stack
+## 🚀 Tech & Tools
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,9 +29,9 @@ I’m a Computer Science student passionate about web development, building proj
 
 ## 🌱 Currently Learning
 
-- Full-Stack Web Development
-- Data Structures & Algorithms
-- Cloud Fundamentals
+- 🌐 Full-Stack Web Development
+- 📚 Data Structures & Algorithms
+- ☁️ Cloud & Deployment Basics
 
 ---
 
@@ -57,10 +45,10 @@ I’m a Computer Science student passionate about web development, building proj
 
 ## ✨ About Me
 
-> 💡 *"Code. Learn. Build. Repeat."*  
-> 🌟 Solving real-world problems with code.  
-> 📈 Continuously growing and contributing.
+> 🚀 *"Code. Learn. Build. Repeat."*  
+> 🌟 I believe in solving real-world problems with technology and teamwork.  
+> 🧩 Always curious to explore and contribute!
 
 ---
 
-⭐️ *Thanks for visiting! Have a fantastic day!* 🚀✨
+⭐️ *Thanks for stopping by! Have a great day!*
