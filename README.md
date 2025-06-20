@@ -1,20 +1,21 @@
-# 👋 Hi there! I'm Sandesh Shahaji Jadhav
-
-🎓 **CSE Student** | 💻 **Web Developer** | 🚀 **Tech Enthusiast**
+# 👋 Hi! My name is Sandesh and I'm a passionate web developer from India.
 
 ---
 
-## 📌 **About Me**
+## 🚀 Sandesh's GitHub Stats
 
-- 🔭 I’m working on full-stack web projects and DSA challenges.
-- 🌱 I’m currently learning **JavaScript**, **Java**, and modern frameworks.
-- 💡 I love building impactful solutions to real-world problems.
-- 📚 Always exploring new technologies to expand my skill set.
-- ⚡ Fun fact: I enjoy solving puzzles and coding challenges!
+| ![Sandesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandeshJadhav7320&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeshJadhav7320&layout=compact&theme=tokyonight) |
+| --- | --- |
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🇮🇳 Proudly from India
+
+![India Flag](https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg)
+
+---
+
+## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -25,18 +26,17 @@
 
 ---
 
-## 📊 **GitHub Stats**
+## 📫 Connect with Me
 
-![Sandesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandeshJadhav7320&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandeshJadhav7320&layout=compact&theme=tokyonight)
-
----
-
-## 📫 **Connect with Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
 
 ---
 
-⭐️ *Thanks for visiting my profile! Have a great day!*
+## ✨ Fun & Passion
+
+> *“Constantly learning new technologies and building impactful solutions.”*
+
+---
+
+⭐️ *Thank you for visiting my profile!*
